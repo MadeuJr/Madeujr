@@ -12,7 +12,6 @@
 <hr>
 <br>
 
-- 🌱 I’m currently learning **React, React Native**
 
 - 📫 How to reach me **amadeujajunior@gmail.com**
 
