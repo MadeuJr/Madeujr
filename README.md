@@ -8,10 +8,8 @@
 <p>👾 One of my favorite hobbies is playing competitive and open-world games. I am also developing a reading habit to enhance my knowledge in philosophy and science topics.</p>
 <br>
 <p>🖥️ I have knowledge in <strong>(Backend) Java, C#, JavaScript (Node), PHP, (Frontend) HTML, CSS</strong>, and basic UI and UX principles. At the moment, I am studying <strong>responsiveness</strong> and <strong>React</strong>. The next step is to study <strong>React Native</strong>.</p>
-<p>🏁 I would like to specialize in FullStack Development and, upon achieving this goal, I want to continue studying more and more.</p>
-
-<hr>
 <br>
+<p>🏁 I would like to specialize in FullStack Development and, upon achieving this goal, I want to continue studying more and more.</p>
 
 
 <hr>
